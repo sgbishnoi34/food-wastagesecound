@@ -1,0 +1,217 @@
+  
+body, h1, h2, p {
+    margin:0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    /* background-color: rgb(194, 217, 229); */
+    background-image:url(Backkkkk.jpeg);
+    height: 100vh;
+    background-position: center;
+    background-repeat:repeat;
+    background-size: cover;
+    width: 100vw;
+    
+    
+
+    
+
+
+    
+}
+
+
+header {
+    background-color:green;
+    color:brown;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color:darkblue;
+    text-decoration: none;
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: green;
+    text-align: center;
+    padding: 10px 0;
+}
+div *{
+    color:#fff;
+}
+.tag{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+ p{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    
+}
+.poor{
+    
+    margin-left:100px;
+    
+    
+}
+.tagline{
+    color:rgb(255, 0, 0);
+    text-align: center;
+}
+.two{
+    color: green;
+}
+.one{
+    color:  rgb(255, 106, 0);
+}
+.foot{
+    color: orange;
+}
+img{
+    height:30%;
+    width: 20%;
+    margin-left: 500px;
+}
+.quote{
+    color: blue;
+}
+.causes{
+    color:black;
+}
+#cofw{
+    height: 50%;
+    width: 50%;
+    margin-left: 450px;
+    margin-bottom:10px;
+}
+.aspects{
+    color:black;
+    
+}
+span{
+    color: black;
+}
+span.twoo{
+    color:black;
+}
+span.threee{
+    color:red;
+    margin-top: 5px;
+    margin-left:0px;
+    
+}
+.mone{
+    height: 50%;
+    width: 50%;
+    margin-bottom:10px;
+    margin-left: 450px;
+}
+.mtwo{
+    height: 50%;
+    width: 50%;
+    margin-left:450px;
+}
+.spm{
+    color:blue;
+    font-size: 20px;
+}
+.eh{
+    color: green;
+    font-size: 20px;
+}
+h4, p {
+     display: inline;
+     
+}
+.sec{
+    font-size: 20px;
+}
+h4{
+    color:black;
+}
+.hwo{
+    height: 50%;
+    width: 50%;
+    margin-left: 450px;
+    margin-bottom: 5px;
+}
+.whg{
+    height: 50%;
+    width:50%;
+    margin-left: 450px;
+    margin-top: 5px;
+}
+.imge{
+    height: 50%;
+    width: 50%;
+    margin-left: 450px;
+    margin-top: 20px;
+}
+.imgoo{
+    height: 50%;
+    width: 50%;
+    margin-left: 450px; 
+    margin-top: 20px;  
+}
+h1{
+    color: brown;
+    margin-left: 5px;
+}
+.parg{
+    color:brown;
+}
+a:hover{
+    color: aqua;
+}
+.ehon{
+    color: blueviolet;
+    font-size: 25px;
+}
+.prarr{
+    font-size: 20px;
+}
+.prr{
+    color: red;
+}
+.spnn{
+    color: red;
+}
+.lpara{
+    font-size: 20px;
+}
+.orl{
+    color:green;
+}
+.strng{
+    color: brown;
+}
+.orng{
+    color: blue;
+}
